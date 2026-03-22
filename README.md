@@ -1,16 +1,17 @@
-## Hi there 👋
+## こんにちは！👋
+私はera760です！OSSの日本語化に関する貢献を主にやっています！
 
-<!--
-**era760/era760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 主にやっている貢献（一回でもやっていれば含む）
+- [bridge. v2](https://github.com/bridge-core/editor) への日本語化貢献
+- [LM Studio](https://github.com/lmstudio-ai/localization) への日本語化貢献
 
-Here are some ideas to get you started:
+## 学習中のプログラミング言語
+- Python
+- （HTML&CSS）
+- JavaScript(とVue.js) / TypeScript
+- C言語
+- C#
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ソーシャルアカウント
+- [Discord](https://discord.com/users/1032544650168377424)
