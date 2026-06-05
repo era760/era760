@@ -35,3 +35,7 @@
 ## 主にやっている貢献（一回でもやっていれば含む）
 - [bridge. v2/v3](https://github.com/bridge-core/editor) への日本語化貢献
 - [LM Studio](https://github.com/lmstudio-ai/localization) への日本語化貢献
+
+## 🔋 活動ステータス
+- 📬 **お仕事・コラボ：** 現在は個人開発とOSS貢献に集中しているため、基本受け付けていません。
+- 💬 **連絡：** 何かあればGitHubのIssueやDiscussion（リポジトリの掲示板）までどうぞ！
